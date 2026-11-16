@@ -44,10 +44,10 @@ Eğitilmiş model ağırlıkları boyut nedeniyle depoya eklenmedi.
 
 | Notebook | Colab |
 | --- | --- |
-| 01_kesif | [Aç](https://colab.research.google.com/github/KULLANICI/multispectral-weed-segmentation/blob/main/notebooks/01_kesif.ipynb) |
-| 02_baseline | [Aç](https://colab.research.google.com/github/KULLANICI/multispectral-weed-segmentation/blob/main/notebooks/02_baseline.ipynb) |
-| 03_deneyler | [Aç](https://colab.research.google.com/github/KULLANICI/multispectral-weed-segmentation/blob/main/notebooks/03_deneyler.ipynb) |
-| 04_degerlendirme | [Aç](https://colab.research.google.com/github/KULLANICI/multispectral-weed-segmentation/blob/main/notebooks/04_degerlendirme.ipynb) |
+| 01_kesif | [Aç](https://colab.research.google.com/github/tuncayorgundar/multispectral-weed-segmentation/blob/main/notebooks/01_kesif.ipynb) |
+| 02_baseline | [Aç](https://colab.research.google.com/github/tuncayorgundar/multispectral-weed-segmentation/blob/main/notebooks/02_baseline.ipynb) |
+| 03_deneyler | [Aç](https://colab.research.google.com/github/tuncayorgundar/multispectral-weed-segmentation/blob/main/notebooks/03_deneyler.ipynb) |
+| 04_degerlendirme | [Aç](https://colab.research.google.com/github/tuncayorgundar/multispectral-weed-segmentation/blob/main/notebooks/04_degerlendirme.ipynb) |
 
 ## Veri seti
 
