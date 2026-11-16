@@ -1,0 +1,14 @@
+{
+  "deney": "E1_msi_ndvi_3s",
+  "kanallar": "msi_ndvi",
+  "n_sinif": 3,
+  "kayip": "ce",
+  "agirlik": null,
+  "seed": 42,
+  "epoch": 100,
+  "bs": 8,
+  "lr": 0.001,
+  "en_iyi_epoch": 92,
+  "val_miou": 0.8277054067789555,
+  "sure_dk": 14.6
+}

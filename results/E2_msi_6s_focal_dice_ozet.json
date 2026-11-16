@@ -1,0 +1,14 @@
+{
+  "deney": "E2_msi_6s_focal_dice",
+  "kanallar": "msi",
+  "n_sinif": 6,
+  "kayip": "focal_dice",
+  "agirlik": null,
+  "seed": 42,
+  "epoch": 100,
+  "bs": 8,
+  "lr": 0.001,
+  "en_iyi_epoch": 95,
+  "val_miou": 0.597100263224991,
+  "sure_dk": 14.4
+}

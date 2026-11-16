@@ -1,0 +1,6 @@
+torch>=2.3
+segmentation-models-pytorch==0.5.0
+numpy
+pandas
+matplotlib
+pillow

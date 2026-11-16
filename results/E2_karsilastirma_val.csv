@@ -1,0 +1,12 @@
+,ce,wce,focal_dice,makale MSI (test)
+IoU arka plan,98.1,97.2,98.1,98.4
+IoU mısır,74.4,67.8,74.0,73.0
+IoU amaranth,72.6,69.1,72.8,76.2
+IoU darıcan,37.1,33.1,37.7,53.6
+IoU quickweed,50.5,48.5,52.1,21.1
+IoU diğer ot,16.1,20.7,23.5,10.9
+mIoU,58.1,56.1,59.7,55.5
+ot recall (tüm otlar),82.9,92.3,86.3,
+mısır → ot,3.4,5.0,3.9,
+quickweed → amaranth,19.9,22.6,18.0,28.0
+diğer ot → toprak,36.1,10.8,26.5,

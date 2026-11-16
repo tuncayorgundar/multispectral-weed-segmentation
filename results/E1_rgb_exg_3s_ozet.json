@@ -1,0 +1,14 @@
+{
+  "deney": "E1_rgb_exg_3s",
+  "kanallar": "rgb_exg",
+  "n_sinif": 3,
+  "kayip": "ce",
+  "agirlik": null,
+  "seed": 42,
+  "epoch": 100,
+  "bs": 8,
+  "lr": 0.001,
+  "en_iyi_epoch": 77,
+  "val_miou": 0.7962476943896395,
+  "sure_dk": 13.3
+}
